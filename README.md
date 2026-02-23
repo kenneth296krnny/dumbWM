@@ -19,7 +19,7 @@ sudo make install
 
 ### Screenshots
 
-![dumbWM in action](image-1.png)
+![dumbWM in action](dumbwm.png)
 
 *dumbWM managing multiple windows including terminal sessions and Roblox client with clean tiling layout*
 
