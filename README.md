@@ -1,9 +1,22 @@
-## DUMBWM
+# dumbWM
 
-USE THIS IF UR BORED I GUESS
+## Features
 
+- Minimalist design
+- Highly customizable
 
-HAD SOME HELP WITH GTK
+## Installation
 
+To install dumbWM, clone the repository and run the setup script.
 
-UHHHHHHH ITS X11 ONLY
+## Usage
+
+After installation, you can start dumbWM by running `dumbwm start`.
+
+## Screenshot
+
+![Screenshot of dumbWM](https://example.com/path-to-screenshot.png)
+
+## License
+
+MIT License
