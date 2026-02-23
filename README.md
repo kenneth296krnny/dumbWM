@@ -1,22 +1,33 @@
-# dumbWM
+## dumbWM
 
-## Features
+Use this if you're bored, I guess.
 
-- Minimalist design
-- Highly customizable
+### Features
 
-## Installation
+- Minimalist tiling window manager
+- X11-based
+- GTK integration
 
-To install dumbWM, clone the repository and run the setup script.
+### Installation
 
-## Usage
+To install dumbWM, clone the repository and run:
 
-After installation, you can start dumbWM by running `dumbwm start`.
+```bash
+cd ~/dumbWM
+sudo make install
+```
 
-## Screenshot
+### Screenshots
 
-![Screenshot of dumbWM](https://example.com/path-to-screenshot.png)
+![dumbWM in action](image-1.png)
 
-## License
+*dumbWM managing multiple windows including terminal sessions and Roblox client with clean tiling layout*
 
-MIT License
+### Requirements
+
+- X11
+- GTK development libraries
+
+### License
+
+BSD 2-Clause License
